@@ -49,3 +49,5 @@ Version control is a collaborative history tracking tool that allows users to ed
 Developers use git because it is a good way to save progress in a clear and concise manner, showing when, why, and what was changed in each iteration. It also shows who it was changed by. It can save the files in each iteration, so that if anyone needs to go back, nothing is lost and the history is trackable.
 
 A commit is a snapshot of your code that you can go back to at any time. A commit command tells Git that you have made changes and in between the quotes is where you tell Git what you did.
+
+La LA La
