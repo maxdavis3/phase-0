@@ -1,3 +1,3 @@
-![This is the site wireframe](wireframe-index.png)
+![This is (hopefully) an image](/imgs/wireframe-index.png)
 
-![This is the blog wireframe](wireframe-blog-index.png)
+![This is (hopefully) an image](/imgs/wireframe-blog-index.png)
