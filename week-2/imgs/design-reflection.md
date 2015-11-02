@@ -30,3 +30,5 @@ What is user experience design and why is it valuable?
 It is how users perceive the site. “Does this website give me value? Is it easy to use? Is it pleasant to use?” User experience design is all about striving to make them answer “Yes” to all of those questions. Designers risk big losses in revenue by neglecting the user experience.
 
 Which parts of the challenge did you find tedious?
+
+Making a new branch, adding the files, confirming them, and merging them to the master. Though, it is still kind of fun to do.
