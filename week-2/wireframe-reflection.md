@@ -1,6 +1,6 @@
-![This is (hopefully) an image](imgs/wireframe-index.png)
+![This is (hopefully) a new image](imgs/wireframe-index.png)
 
-![This is (hopefully) an image](imgs/wireframe-blog-index.png)
+![This is (hopefully) a new image](imgs/wireframe-blog-index.png)
 
 What is a wireframe?
 
