@@ -1,0 +1,29 @@
+.heading {
+      font-weight: bold;
+}
+
+p span {
+   display: block;
+}
+
+.links {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+body {
+    color: #000080;
+}
+
+a {
+    color: #800080;
+}
+
+a:visited {
+    color: #ff0000;
+}
+
+body {
+    background-color: #ffffff;
+}
