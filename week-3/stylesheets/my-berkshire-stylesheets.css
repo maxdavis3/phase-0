@@ -4,22 +4,16 @@
 }
 
 .line-separator{
-
       height:1px;
       background:#717171;
       border-bottom:1px solid #313030;
-
 }
-
-.enter{
-  display: block;
-}
-
 
 h1 {
   font-size: 40px;
   display: inline;
 }
+
 dt {
   font-size: 10px;
   display: block;
