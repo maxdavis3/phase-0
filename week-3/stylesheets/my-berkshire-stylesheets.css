@@ -1,8 +1,31 @@
 .heading {
       font-weight: bold;
+      text-align: center;
 }
 
-p span {
+.line-separator{
+
+      height:1px;
+      background:#717171;
+      border-bottom:1px solid #313030;
+
+}
+
+.enter{
+  display: block;
+}
+
+
+h1 {
+  font-size: 40px;
+  display: inline;
+}
+dt {
+  font-size: 10px;
+  display: block;
+}
+
+span {
    display: block;
 }
 
@@ -26,4 +49,13 @@ a:visited {
 
 body {
     background-color: #ffffff;
+}
+
+.ad {
+    text-align: center;
+    font-size: 10px;
+}
+
+.footer {
+    font-size: 12px;
 }
